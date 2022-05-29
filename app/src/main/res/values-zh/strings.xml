@@ -1,0 +1,97 @@
+<resources>
+    <string name="about">关于</string>
+    <string name="action_force_reload">强制重载</string>
+    <string name="applying_changes">更改即将生效</string>
+    <string name="cancel">取消</string>
+    <string name="enable">启用</string>
+    <string name="settings_title">扩展</string>
+    <string name="enabled">主开关</string>
+    <string name="enabled_desc">万物始于此</string>
+    <string name="settings">设置</string>
+    <string name="settings_system">系统</string>
+    <string name="settings_system_desc">自定义系统特性</string>
+    <string name="settings_android_settings">设置</string>
+    <string name="settings_android_settings_desc">自定义设置应用</string>
+    <string name="settings_launcher">启动器</string>
+    <string name="settings_launcher_desc">自定义Pixel启动器</string>
+    <string name="settings_tweaks_desc">为单独的应用自定义</string>
+    <string name="settings_appearance">外观</string>
+    <string name="settings_appearance_desc">非官方的主题及颜色自定义</string>
+    <string name="action_report_settings">发送设置</string>
+    <string name="system_monet_desc">基于壁纸的多彩主题</string>
+    <string name="system_lockscreen">锁屏样式</string>
+    <string name="system_lockscreen_desc">时间样式与屏幕亮灭动画</string>
+    <string name="system_toast">Toast样式</string>
+    <string name="system_toast_desc">应用图标加实心背景</string>
+    <string name="system_rounded_screenshots">圆角截图</string>
+    <string name="system_rounded_screenshots_desc">给截图加上圆角</string>
+    <string name="system_privacy_indicators">隐私指示器</string>
+    <string name="system_privacy_indicators_desc">相机，麦克风，定位</string>
+    <string name="system_charging_ripple">充电涟漪动画</string>
+    <string name="system_charging_ripple_desc">开始充电时显示涟漪动画</string>
+    <string name="system_internet_ui">统一网络设置</string>
+    <string name="system_internet_ui_desc">在同一处设置WiFi和数据网络</string>
+    <string name="system_combined_signal">统一信号图标</string>
+    <string name="system_combined_signal_desc">在状态栏上只显示当前的WiFi/数据网络信号</string>
+    <string name="system_info">你也可以关闭本被默认启用的特性。</string>
+    <string name="tweak_ripple_style">涟漪动画</string>
+    <string name="tweak_ripple_style_default">默认</string>
+    <string name="tweak_ripple_style_default_desc">默认Android 12动画</string>
+    <string name="tweak_ripple_style_no_sparkles">无火星</string>
+    <string name="tweak_ripple_style_no_sparkles_desc">默认动画，但去除火星</string>
+    <string name="tweak_ripple_style_fluent_desc">受Fluent Design启发的涟漪动画</string>
+    <string name="tweak_ripple_style_legacy">经典</string>
+    <string name="tweak_ripple_style_legacy_desc">Android 11上的老式Material涟漪动画</string>
+    <string name="tweak_haptic_touch">点击振动</string>
+    <string name="tweak_haptic_touch_desc">在大多数应用中点击可交互组件时产生振动</string>
+    <string name="tweaks_info">Tweaks需要对每个应用进行修改。你需要将此Xposed模块对所有你想要修改的应用启用。</string>
+    <string name="appearance_custom_monet">自定义主题引擎</string>
+    <string name="appearance_custom_monet_desc">使用自定义引擎生成基于壁纸的主题</string>
+    <string name="appearance_custom_monet_accurate_shades">精准色调</string>
+    <string name="appearance_custom_monet_accurate_shades_desc">以更暗淡的颜色为代价获得更准确的色调</string>
+    <string name="appearance_custom_monet_chroma_multiplier">多彩度</string>
+    <string name="appearance_custom_monet_zcam_advanced">高级颜色模型设置</string>
+    <string name="category_colors">颜色</string>
+    <string name="appearance_monet_custom_color">使用自定义颜色</string>
+    <string name="appearance_monet_custom_color_desc">自定义颜色而不是从壁纸自动取色</string>
+    <string name="appearance_monet_custom_color_value">主题色</string>
+    <string name="appearance_monet_custom_color3">使用自定义互补色</string>
+    <string name="appearance_monet_custom_color3_desc">自定义互补色而不是基于主题色自动生成</string>
+    <string name="appearance_monet_custom_color3_value">互补色</string>
+    <string name="appearance_monet_palette">显示当前色板</string>
+    <string name="appearance_monet_palette_desc">显示全部65种Material You颜色</string>
+    <string name="appearance_monet_quantizer">显示壁纸颜色</string>
+    <string name="appearance_monet_quantizer_desc">最多可从壁纸提取14种颜色</string>
+    <string name="appearance_aosp_circle_icons">圆形图标</string>
+    <string name="appearance_aosp_circle_icons_desc">圆形的应用图标</string>
+    <string name="appearance_advanced">高级颜色</string>
+    <string name="appearance_advanced_linear_lightness">自定义亮度量表</string>
+    <string name="appearance_advanced_linear_lightness_desc">使用新颜色模型的亮度量表替换Google原版。这可以使“主题亮度”选项更为有效。</string>
+    <string name="appearance_advanced_white_luminance">主题亮度</string>
+    <string name="appearance_advanced_white_luminance_desc">若自定义亮度被禁用，此设置将只会影响多彩度。增大主题亮度将使亮色更强，暗色更弱。反之亦然。</string>
+    <string name="appearance_advanced_telemetry">分析</string>
+    <string name="appearance_advanced_send_settings_report">将设置发送给开发者</string>
+    <string name="appearance_advanced_send_settings_report_desc">将你的设置匿名地发送给开发者，这将提升所有人的体验！</string>
+    <string name="monet_palette">色板</string>
+    <string name="monet_quantizer">壁纸颜色</string>
+    <string name="monet_quantizer_color_copied">已复制到剪贴板：%1$s</string>
+    <string name="error_xposed_module_missing">Xposed模块未激活</string>
+    <string name="error_xposed_module_missing_desc">将此模块在LSPosed中激活并重启你的设备。\n\n没有LSPosed？\n    请访问https://github.com/LSPosed/LSPosed获取帮助。</string>
+    <string name="error_missing_root">无法访问Root权限</string>
+    <string name="error_missing_root_desc">为了管理Overlays，确保工作正常，Root权限是必须的。</string>
+    <string name="donate">捐赠</string>
+    <string name="contact">联系方式</string>
+    <string name="source_code">源码</string>
+    <string name="about_app_description"><![CDATA[
+        启用、自定义Android 12的隐藏特性。
+        <br />
+        <br />
+        由<a href="https://kdrag0n.dev/?utm_medium=app&amp;utm_source=android12ext">kdrag0n</a>用❤️制作，由<a href="https://github.com/YifePlayte">YifePlayte</a>随缘翻译。若这个软件帮到了你，请考虑<a href="https://kdrag0n.dev/donate?utm_medium=app&amp;utm_source=android12ext">捐赠助力开发</a>！
+    ]]></string>
+    <string name="telemetry_prompt_send_settings_report">将设置发送给开发者？</string>
+    <string name="telemetry_prompt_send_settings_report_desc">这完全匿名，并仅包含Android 12 Extensions的设置。这将提升所有人的体验！</string>
+    <string name="allow">允许</string>
+    <string name="deny">拒绝</string>
+    <string name="tweak_ripple_style_fluent">Fluent</string>
+
+</resources>
